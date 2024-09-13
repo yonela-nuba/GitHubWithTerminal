@@ -10,4 +10,6 @@ x = 6
 z = 7
 y = x * z
 
+print(y)
+
 print(c)
